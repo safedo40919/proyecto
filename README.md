@@ -1,7 +1,3 @@
-# **Proyecto Electiva DisciplinarII -Backend**
-* Jose Santiago Gamez Solano [@safedo40919](https://github.com/safedo40919) 
-* Oscar Yesid Arango Barrios [@Mr-robot73](https://github.com/Mr-robot73) 
-
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
